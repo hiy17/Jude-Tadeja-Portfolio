@@ -77,7 +77,7 @@ export function Contact() {
                     </div>
                     <div>
                       <p className="text-sm text-muted-foreground">Email</p>
-                      <p className="font-medium">jude.tadeja@example.com</p>
+                      <p className="font-medium">judetadeja17@gmail.com</p>
                     </div>
                   </motion.div>
 
@@ -91,7 +91,7 @@ export function Contact() {
                     </div>
                     <div>
                       <p className="text-sm text-muted-foreground">Phone</p>
-                      <p className="font-medium">+1 (555) 123-4567</p>
+                      <p className="font-medium">09939514188</p>
                     </div>
                   </motion.div>
 
@@ -105,7 +105,7 @@ export function Contact() {
                     </div>
                     <div>
                       <p className="text-sm text-muted-foreground">Location</p>
-                      <p className="font-medium">Manila, Philippines</p>
+                      <p className="font-medium">Batangas City, Philippines</p>
                     </div>
                   </motion.div>
                 </div>
@@ -114,7 +114,7 @@ export function Contact() {
                   <h4 className="text-sm font-semibold mb-3">Connect with me</h4>
                   <div className="flex gap-3">
                     <motion.a
-                      href="https://github.com/"
+                      href="https://github.com/hiy17"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center justify-center w-10 h-10 rounded-full bg-muted hover:bg-blue-100 dark:hover:bg-blue-900/30 transition-colors"
@@ -126,7 +126,7 @@ export function Contact() {
                       </svg>
                     </motion.a>
                     <motion.a
-                      href="https://linkedin.com/"
+                      href="https://www.linkedin.com/in/jude-tadeja-408b9932a/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center justify-center w-10 h-10 rounded-full bg-muted hover:bg-blue-100 dark:hover:bg-blue-900/30 transition-colors"
@@ -138,7 +138,7 @@ export function Contact() {
                       </svg>
                     </motion.a>
                     <motion.a
-                      href="https://twitter.com/"
+                      href="https://x.com/jdtadeja"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="flex items-center justify-center w-10 h-10 rounded-full bg-muted hover:bg-blue-100 dark:hover:bg-blue-900/30 transition-colors"

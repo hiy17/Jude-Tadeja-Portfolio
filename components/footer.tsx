@@ -44,9 +44,9 @@ export function Footer() {
             <div className="space-y-2 text-sm">
               <p className="flex items-center gap-2">
                 <Mail className="h-4 w-4 text-blue-500" />
-                <span>jude.tadeja@example.com</span>
+                <span>judetadeja17@gmail.com</span>
               </p>
-              <p>Manila, Philippines</p>
+              <p>Batangas City, Philippines</p>
             </div>
           </div>
 
@@ -54,7 +54,7 @@ export function Footer() {
             <h3 className="text-lg font-bold">Connect</h3>
             <div className="flex space-x-4">
               <motion.a
-                href="https://github.com/"
+                href="https://github.com/hiy17"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-blue-500 transition-colors"
@@ -64,7 +64,7 @@ export function Footer() {
                 <Github className="h-5 w-5" />
               </motion.a>
               <motion.a
-                href="https://linkedin.com/"
+                href="https://www.linkedin.com/in/jude-tadeja-408b9932a/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-blue-500 transition-colors"
@@ -74,7 +74,7 @@ export function Footer() {
                 <Linkedin className="h-5 w-5" />
               </motion.a>
               <motion.a
-                href="https://twitter.com/"
+                href="https://x.com/jdtadeja"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-blue-500 transition-colors"
@@ -84,7 +84,7 @@ export function Footer() {
                 <Twitter className="h-5 w-5" />
               </motion.a>
               <motion.a
-                href="mailto:jude.tadeja@example.com"
+                href="mailto:judetadeja17@gmail.com"
                 className="hover:text-blue-500 transition-colors"
                 aria-label="Email"
                 whileHover={{ y: -3 }}

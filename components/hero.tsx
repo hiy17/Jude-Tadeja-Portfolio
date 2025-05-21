@@ -5,6 +5,7 @@ import { TypeAnimation } from "react-type-animation"
 import { motion } from "framer-motion"
 import Link from "next/link"
 import { ArrowDown, Code, Laptop, Sparkles } from "lucide-react"
+import Image from "next/image"
 
 export function Hero() {
   return (
@@ -41,6 +42,24 @@ export function Hero() {
                 Jude Tadeja
               </span>
             </h1>
+          </motion.div>
+
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.2, duration: 0.5 }}
+            className="mx-auto mt-6 mb-8"
+          >
+            <div className="relative w-32 h-32 mx-auto">
+              <div className="absolute inset-0 rounded-full bg-gradient-to-r from-blue-400 to-blue-600 blur-sm animate-pulse-slow"></div>
+              <Image
+                src="/images/jude.jpg"
+                alt="Jude Tadeja"
+                width={128}
+                height={128}
+                className="rounded-full object-cover border-2 border-background shadow-lg relative z-10"
+              />
+            </div>
           </motion.div>
 
           <motion.div

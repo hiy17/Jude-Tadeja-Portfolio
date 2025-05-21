@@ -1,7 +1,6 @@
 "use client"
 
 import { motion } from "framer-motion"
-import Image from "next/image"
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 
@@ -28,20 +27,29 @@ export function About() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="relative"
           >
-            <div className="aspect-square max-w-md mx-auto relative">
+            <div className="space-y-6">
+              <div className="p-6 rounded-2xl bg-gradient-to-br from-blue-50 to-blue-100 dark:from-blue-900/20 dark:to-blue-800/10 shadow-md">
+                <h3 className="text-xl font-medium mb-4">About Me</h3>
+                <p className="text-muted-foreground">
+                  I am a dedicated Computer Science student with a passion for creating innovative digital solutions. My
+                  journey in technology is driven by curiosity and a desire to solve real-world problems through code. I
+                  specialize in web development and software engineering, constantly expanding my skills to stay at the
+                  forefront of technological advancements.
+                </p>
+              </div>
+
               <motion.div
-                className="absolute inset-0 bg-gradient-to-br from-blue-500 to-blue-700 rounded-2xl"
-                animate={{ rotate: [3, 5, 3] }}
-                transition={{ duration: 6, repeat: Number.POSITIVE_INFINITY, ease: "easeInOut" }}
-              ></motion.div>
-              <motion.div whileHover={{ scale: 1.05 }} transition={{ type: "spring", stiffness: 300 }}>
-                <Image
-                  src="/images/jude.jpg"
-                  alt="Jude Tadeja"
-                  width={400}
-                  height={400}
-                  className="rounded-2xl object-cover transform -rotate-3 relative z-10 border-4 border-background shadow-xl"
-                />
+                className="p-6 rounded-2xl bg-gradient-to-br from-blue-50 to-blue-100 dark:from-blue-900/20 dark:to-blue-800/10 shadow-md"
+                whileHover={{ y: -5 }}
+                transition={{ type: "spring", stiffness: 300 }}
+              >
+                <h3 className="text-xl font-medium mb-4">My Approach</h3>
+                <p className="text-muted-foreground">
+                  I believe in writing clean, efficient code and creating intuitive user experiences. My approach
+                  combines technical expertise with creative problem-solving, allowing me to develop solutions that are
+                  both functional and user-friendly. I thrive in collaborative environments and am always eager to learn
+                  from others and share my knowledge.
+                </p>
               </motion.div>
             </div>
           </motion.div>

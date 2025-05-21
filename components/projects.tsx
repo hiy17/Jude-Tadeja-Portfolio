@@ -23,6 +23,7 @@ type Project = {
   liveUrl?: string
 }
 
+// Update the projects array with the real GitHub links
 const projects: Project[] = [
   {
     id: 1,
@@ -32,7 +33,7 @@ const projects: Project[] = [
     tags: ["C#", "Console Application", "Data Structures"],
     category: "desktop",
     icon: <Code className="h-5 w-5 text-blue-500" />,
-    githubUrl: "#",
+    githubUrl: "https://github.com/hiy17/Park-C---Parking-Reservation-System",
   },
   {
     id: 2,
@@ -42,8 +43,8 @@ const projects: Project[] = [
     tags: ["HTML", "CSS", "JavaScript", "Algorithms"],
     category: "web",
     icon: <Palette className="h-5 w-5 text-blue-500" />,
-    githubUrl: "#",
-    liveUrl: "#",
+    githubUrl: "https://github.com/hiy17/Shade-Parade",
+    liveUrl: "https://github.com/hiy17/Shade-Parade",
   },
   {
     id: 3,
@@ -53,7 +54,7 @@ const projects: Project[] = [
     tags: ["Python", "HTML", "CSS", "JavaScript"],
     category: "desktop",
     icon: <CircuitBoard className="h-5 w-5 text-blue-500" />,
-    githubUrl: "#",
+    githubUrl: "https://github.com/hiy17/Eulermation",
   },
   {
     id: 4,
@@ -63,8 +64,8 @@ const projects: Project[] = [
     tags: ["Dart", "C++", "Swift", "C", "HTML"],
     category: "web",
     icon: <BrainCircuit className="h-5 w-5 text-blue-500" />,
-    githubUrl: "#",
-    liveUrl: "#",
+    githubUrl: "https://github.com/iZilchi/Quiz-Whiz",
+    liveUrl: "https://github.com/iZilchi/Quiz-Whiz",
   },
 ]
 
