@@ -3,7 +3,6 @@
 ## 🚀 Overview
 
 I’m **Jude Tadeja**, a Computer Science student designing and building clean, meaningful digital experiences. This portfolio highlights my background, projects, skills, and how to connect with me.
-🔗 Live site: [judetadejaportfolio.vercel.app](https://judetadejaportfolio.vercel.app/)
 
 ---
 
