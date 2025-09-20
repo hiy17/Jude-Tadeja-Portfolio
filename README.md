@@ -1,30 +1,50 @@
-# JT Portfolio
+# Jude Tadeja | Portfolio
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+## 🚀 Overview
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/judetadeja17-5357s-projects/v0-new-project-dipeg0nyk1s)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/DIpeG0nYK1S)
+I’m **Jude Tadeja**, a Computer Science student designing and building clean, meaningful digital experiences. This portfolio highlights my background, projects, skills, and how to connect with me.
+🔗 Live site: [judetadejaportfolio.vercel.app](https://judetadejaportfolio.vercel.app/)
 
-## Overview
+---
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+## ✨ About Me
 
-## Deployment
+* Dedicated CS student with a passion for solving real-world problems through code
+* Skilled in web development, software engineering, and UI/UX design
+* Core values: continuous learning • problem solving • attention to detail • collaboration
 
-Your project is live at:
+---
 
-**[https://vercel.com/judetadeja17-5357s-projects/v0-new-project-dipeg0nyk1s](https://vercel.com/judetadeja17-5357s-projects/v0-new-project-dipeg0nyk1s)**
+## 🛠 Projects
 
-## Build your app
+| Project                                       | Description                                                            | Technologies                      |
+| --------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------- |
+| **Park C – Parking Reservation System**       | Console app for booking parking spots in advance                       | C#                                |
+| **Shade Parade – Color Palette Sorter**       | Sorts palettes by lightness or hue using merge, quick, and bubble sort | HTML, CSS, JavaScript, Algorithms |
+| **Eulermation – Circuit Animation Generator** | Visualizes graph-theory Euler circuits                                 | Python, HTML, CSS, JavaScript     |
+| **Quiz Whiz – Learning Application**          | Comprehensive learning app, multi-language implementations             | Dart, C++, Swift, C, HTML         |
 
-Continue building your app on:
+Each project includes code and demos, showcased in the portfolio.
 
-**[https://v0.dev/chat/projects/DIpeG0nYK1S](https://v0.dev/chat/projects/DIpeG0nYK1S)**
+---
 
-## How It Works
+## 🧰 Skills
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+**Technical Skills**
+
+* Languages: Python • Java • C++ • JavaScript • HTML/CSS
+* Frameworks/Libraries: React.js • Tailwind CSS • Node.js
+* Tools: Git & GitHub • MySQL • Figma • VS Code
+
+**Soft Skills**
+Problem Solving • Collaboration • Adaptability • Communication • Time Management
+
+---
+
+## 📫 Contact
+
+* 📧 **[judetadeja17@gmail.com](mailto:judetadeja17@gmail.com)**
+* 📍 Batangas City, Philippines
+* 🔗 [GitHub](https://github.com/judetadeja17) • [LinkedIn](https://www.linkedin.com/judetadeja) • [X/Twitter](https://x.com/jdtadeja)
+
+I’m open to freelance work, internships, and collaborations. Feel free to reach out!
