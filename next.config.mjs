@@ -1,9 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  trailingSlash: true,
-  basePath: '/Jude-Tadeja-Portfolio',
-  assetPrefix: '/Jude-Tadeja-Portfolio/',
+  // Commented out for local development
+  // output: 'export',
+  // trailingSlash: true,
+  // basePath: '/Jude-Tadeja-Portfolio',
+  // assetPrefix: '/Jude-Tadeja-Portfolio/',
   eslint: {
     ignoreDuringBuilds: true,
   },
